@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação móvel que utiliza React Native para criar uma interface de mapas interativos, permitindo visualizar localizações, adicionar marcadores e explorar funcionalidades de geolocalização em dispositivos iOS e Android.
 
-![preview](.github/preview.jpg)
+![preview](.github/preview.png)
 
 ---
 
